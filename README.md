@@ -15,7 +15,6 @@ Installierte Bibliotheken: pandas, openpyxl
 
 Falls noch nicht installiert, kannst du sie mit folgendem Befehl installieren:
 
-bash
-Kopieren
-Bearbeiten
+```sh
 pip install pandas openpyxl
+```
