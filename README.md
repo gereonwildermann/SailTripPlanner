@@ -20,7 +20,7 @@ pip install pandas openpyxl
 ```
 
 ## Sonstiges
-Für Wetter Routing empfiehlt sich die Bibliothek libweatherrouting, die sich einfach über pip installieren lässt:
+Für **Wetter Routing** empfiehlt sich die Bibliothek [libweatherrouting](https://github.com/dakk/libweatherrouting), die sich einfach über pip installieren lässt:
 ```sh
 pip install weatherrouting
 ```
