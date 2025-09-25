@@ -17,14 +17,6 @@ Python 3.x
 
 Installierte Bibliotheken: pandas, openpyxl
 
-Falls noch nicht installiert, kannst du sie mit folgendem Befehl installieren:
-
 ```sh
 pip install pandas openpyxl
-```
-
-## Sonstiges
-Für **Wetter Routing** empfiehlt sich die Bibliothek [libweatherrouting](https://github.com/dakk/libweatherrouting), die sich einfach über pip installieren lässt:
-```sh
-pip install weatherrouting
 ```
